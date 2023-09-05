@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 <!--
 **zunair-dev/zunair-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Muhammad Zunair, a dedicated Software Engineer with 4 years of industry experience. I specialize in commercial application and software development, consistently delivering innovative solutions. My focus on customer satisfaction, along with my strong analytical and communication skills, has led to a successful track record in crafting exceptional software solutions.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VISITS)
